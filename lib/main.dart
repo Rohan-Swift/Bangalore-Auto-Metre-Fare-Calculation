@@ -64,7 +64,10 @@ class _MyAppState extends State<MyApp> {
                         'Fare for $distance kms is $fare',
                         style: const TextStyle(fontSize: 18),
                       )
-                    : const Text(''),
+                    : const Text(
+                        '',
+                        style: TextStyle(fontSize: 18),
+                      ),
                 const SizedBox(
                   height: 70,
                 ),
