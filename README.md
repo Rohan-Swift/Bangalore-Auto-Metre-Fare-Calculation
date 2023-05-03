@@ -4,7 +4,7 @@ Application to calculate the auto fare in Bangalore
 
 ## Getting Started
 
-A simple Flutter Application to calculate an estimate of the meter fare in bangalore autos
+A simple Flutter Application to calculate an estimate of the meter fare in Bangalore autos
 
 Next feature:
 
